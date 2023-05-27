@@ -1,0 +1,66 @@
+body{
+
+background-image: url(../img/back.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.backNav{
+min-height: 100px;
+background-image: url(../img/backNav.png);
+background-repeat: no-repeat;
+background-position-x: 50%;
+background-position-y: 72% ;
+
+}
+
+.imgSize{
+    
+    max-height: 100px;
+    max-width: 100px;
+
+}
+.imgSize1{
+    
+    max-height: 500px;
+    max-width: 500px;
+
+}
+
+.back2{
+
+    background-color: ghostwhite;
+
+}
+
+.back{
+
+    background-color: rgba(241, 254, 255, 0.781);
+
+
+}
+
+.correcto{
+
+    visibility: hidden;
+
+}
+
+.incorrecto{
+
+color: red;
+
+}
+
+.chOk{
+
+color: green;
+
+
+}
+
+.chNo{
+
+color: orange;
+
+}
